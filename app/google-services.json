@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "157303004370",
+    "firebase_url": "https://przewodnik-132be.firebaseio.com",
+    "project_id": "przewodnik-132be",
+    "storage_bucket": "przewodnik-132be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157303004370:android:15bf7a11a6676905",
+        "android_client_info": {
+          "package_name": "com.example.malami.projektprzewodnik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157303004370-3nq9drk28t53j1uh9enks73ajrl2jvet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHemcze6rf4K1__pA_k_oEM3HGtSgYVd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157303004370-3nq9drk28t53j1uh9enks73ajrl2jvet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157303004370:android:cdd57251afcf0cdd",
+        "android_client_info": {
+          "package_name": "com.example.malami.przewodnik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157303004370-hq2fkku70166uj9c2tt4ot7cbre5kdl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.malami.przewodnik",
+            "certificate_hash": "32c7ac0fef65313a3e99d29b91fc2d6c243a082c"
+          }
+        },
+        {
+          "client_id": "157303004370-3nq9drk28t53j1uh9enks73ajrl2jvet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHemcze6rf4K1__pA_k_oEM3HGtSgYVd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157303004370-3nq9drk28t53j1uh9enks73ajrl2jvet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157303004370:android:ed1498c5ac1364fd",
+        "android_client_info": {
+          "package_name": "com.example.malami.przewodnikkulinarny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157303004370-mmv5dk7u1rs1m9vjus3tadv2bun1fqik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.malami.przewodnikkulinarny",
+            "certificate_hash": "32c7ac0fef65313a3e99d29b91fc2d6c243a082c"
+          }
+        },
+        {
+          "client_id": "157303004370-3nq9drk28t53j1uh9enks73ajrl2jvet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHemcze6rf4K1__pA_k_oEM3HGtSgYVd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157303004370-3nq9drk28t53j1uh9enks73ajrl2jvet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157303004370:android:db22a521434f9dcc",
+        "android_client_info": {
+          "package_name": "com.example.malami.przewodnikrestauracje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157303004370-pnpaarrsdcehcou0ub7uppn0poc1olmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.malami.przewodnikrestauracje",
+            "certificate_hash": "32c7ac0fef65313a3e99d29b91fc2d6c243a082c"
+          }
+        },
+        {
+          "client_id": "157303004370-3nq9drk28t53j1uh9enks73ajrl2jvet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHemcze6rf4K1__pA_k_oEM3HGtSgYVd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157303004370-3nq9drk28t53j1uh9enks73ajrl2jvet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
