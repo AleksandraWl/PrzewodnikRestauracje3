@@ -2,8 +2,8 @@
 <resources>
     <color name="colorPrimary">#1D44CF</color>
     <color name="colorPrimaryDark">#1D44CF</color>
-    <color name="colorAccent">#A63610</color>
-    <color name="przyciski">#9C7D91</color>
+    <color name="colorAccent">#F0F04D</color>
+    <color name="przyciski">#CCCC89</color>
 
 </resources>
 
