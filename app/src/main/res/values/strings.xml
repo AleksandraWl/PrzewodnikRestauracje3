@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">PrzewodnikRestauracje</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="app_name">Przewodnik</string>
+    <string name="title_activity_maps">Mapa</string>
 </resources>

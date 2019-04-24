@@ -40,7 +40,7 @@
                 android:layout_alignParentTop="true"
                 android:layout_alignParentEnd="true"
                 android:layout_marginStart="109dp"
-                android:layout_marginTop="66dp"
+                android:layout_marginTop="100dp"
                 android:layout_marginEnd="109dp"
                 android:src="@drawable/ic_launcher"
                 tools:srcCompat="@drawable/ic_launcher" />
@@ -64,19 +64,20 @@
                 android:layout_below="@+id/email"
                 android:layout_alignParentEnd="true"
                 android:layout_marginStart="16dp"
-                android:layout_marginTop="3dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginEnd="16dp"
-                android:layout_marginBottom="6dp"
+                android:layout_marginBottom="10dp"
                 android:hint="Hasło"
                 android:inputType="textPassword" />
 
             <Button
                 android:id="@+id/zarejestruj"
+                android:background="@color/przyciski"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/haslo"
                 android:layout_marginStart="16dp"
-                android:layout_marginTop="6dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginEnd="16dp"
                 android:layout_marginBottom="16dp"
                 android:onClick="rejestruj"
