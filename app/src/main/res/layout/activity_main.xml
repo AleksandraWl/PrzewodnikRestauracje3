@@ -15,7 +15,8 @@
         android:layout_alignParentTop="true"
         android:background="@color/colorPrimary"
         android:minHeight="?attr/actionBarSize"
-        app:title="Lubelski przewodnik kulinarny" />
+        app:title="Lubelski przewodnik po restauracjach" />
+
 
     <Button
         android:id="@+id/zaloguj"
