@@ -316,9 +316,9 @@ public class WyborJedzenia extends AppCompatActivity {
         long t = System.currentTimeMillis();
         if (t - backPressedTime > 2000) {    // 2 secs
             backPressedTime = t;
-        } else {    // this guy is serious
-            // clean up
-            super.onBackPressed();       // bye
+            Toast.makeText(this, "Naciśnij jeszcze raz, aby wylogować", Toast.LENGTH_LONG).show();
+        } else {
+            super.onBackPressed();
         }
     }
 }
